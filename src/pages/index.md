@@ -2,8 +2,8 @@
 templateKey: index-page
 title: The DR
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Heading
+subheading: Sub-heading
 mainpitch:
   title: The DR
   description: |
